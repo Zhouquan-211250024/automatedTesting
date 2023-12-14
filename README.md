@@ -1,2 +1,2 @@
-# automatedTesting
+# AutomatedTesting
 mutation testing
